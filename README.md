@@ -1,0 +1,2 @@
+# mychat
+Global Chat
